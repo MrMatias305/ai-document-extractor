@@ -1,0 +1,45 @@
+{
+  "document_type": "Project meeting notes",
+  "date": "September 17, 2026",
+  "people_mentioned": [
+    "Aimee",
+    "William",
+    "Jay"
+  ],
+  "action_items": [
+    {
+      "action": "Complete the backend API",
+      "assignee": null,
+      "deadline": "September 20"
+    },
+    {
+      "action": "Prepare the database schema",
+      "assignee": "William",
+      "deadline": "September 18"
+    },
+    {
+      "action": "Review the API documentation",
+      "assignee": "Everyone",
+      "deadline": "before the next meeting"
+    }
+  ],
+  "deadlines": [
+    {
+      "deadline": "September 20",
+      "related_item": "Backend API should be completed"
+    },
+    {
+      "deadline": "September 18",
+      "related_item": "William will prepare the database schema"
+    },
+    {
+      "deadline": "September 22 at 10:00 AM",
+      "related_item": "Next meeting"
+    },
+    {
+      "deadline": "before the next meeting",
+      "related_item": "Everyone to review the API documentation"
+    }
+  ],
+  "summary": "The Project Alpha team met on September 17, 2026. Aimee noted the backend API should be completed by September 20, William will prepare the database schema by September 18, and Jay asked everyone to review the API documentation before the next meeting on September 22 at 10:00 AM."
+}

@@ -1,0 +1,40 @@
+{
+  "document_type": "Invoice",
+  "date": "September 12, 2026",
+  "people_mentioned": [
+    "Sarah Jenkins",
+    "David Miller"
+  ],
+  "action_items": [
+    {
+      "action": "Review and approve the migration sign-off sheet",
+      "responsible_party": "Sarah Jenkins",
+      "deadline": "September 25, 2026"
+    },
+    {
+      "action": "Submit the full wire transfer of $7,950.00",
+      "responsible_party": "Accounts Payable",
+      "deadline": "October 12, 2026"
+    },
+    {
+      "action": "Schedule the 2-hour staff training webinar",
+      "responsible_party": "David Miller",
+      "deadline": "October 5, 2026"
+    }
+  ],
+  "deadlines": [
+    {
+      "description": "Migration sign-off sheet review and approval",
+      "date": "September 25, 2026"
+    },
+    {
+      "description": "Final invoice due date and wire transfer deadline",
+      "date": "October 12, 2026"
+    },
+    {
+      "description": "Staff training webinar scheduling deadline",
+      "date": "October 5, 2026"
+    }
+  ],
+  "summary": "Invoice #INV-2026-8941 was issued by Stellar Tech Solutions LLC to Global Retail Corp. for Enterprise Cloud Migration Phase 2 and Post-Migration Support & Training. The total amount due is $7,950.00, with payment due by October 12, 2026."
+}

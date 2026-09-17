@@ -1,0 +1,29 @@
+INVOICE #INV-2026-8941
+
+Date Issued: September 12, 2026
+Due Date: October 12, 2026
+Prepared By: Stellar Tech Solutions LLC
+
+CLIENT INFORMATION:
+Global Retail Corp.
+Attn: Sarah Jenkins, Operations Manager
+100 Innovation Way, Suite 400
+
+SUMMARY OF SERVICES:
+1. Enterprise Cloud Migration Phase 2
+   - Scope: Database transfer and security configuration
+   - Hours: 45 hours @ $150/hr
+   - Total: $6,750.00
+
+2. Post-Migration Support & Training
+   - Scope: Staff training sessions led by David Miller
+   - Flat Rate: $1,200.00
+
+TOTAL AMOUNT DUE: $7,950.00
+
+REQUIRED ACTION ITEMS:
+- Client (Sarah Jenkins) must review and approve the migration sign-off sheet by September 25, 2026.
+- Accounts Payable must submit the full wire transfer of $7,950.00 before the final due date of October 12, 2026.
+- David Miller needs to schedule the 2-hour staff training webinar by October 5, 2026.
+
+Thank you for your business! For billing inquiries, please contact finance@stellartech.com.
