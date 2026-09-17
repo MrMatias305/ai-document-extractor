@@ -31,7 +31,7 @@ Rules:
 
 """
 
-file = "report.txt"
+file = "meeting.txt"
 file_path = Path(f"documents/{file}")
 filename = file_path.stem
 
